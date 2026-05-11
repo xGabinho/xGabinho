@@ -1,66 +1,90 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gabriel%20Quevedo&fontSize=70" />
+  <!-- BANNER DINÁMICO ESTILO GLITCH/GAME -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=GABRIEL%20QUEVEDO&fontSize=60&animation=fadeIn&fontAlignY=40&theme=dark" alt="Gabriel Quevedo Banner" />
+
+  <!-- SUBTÍTULO ESTILO CONSOLA -->
+  <code>> LOADING PROFILE... [SUCCESS]</code><br />
+  <code>> CURRENT CLASS: FULL STACK DEVELOPER || LEVEL: SENA ADSO STUDENT</code>
 </div>
 
-# 👋 ¡Hola! Soy Gabriel
+---
 
-### 🚀 Desarrollador Full Stack | Estudiante de ADSO en el SENA
-Soy un apasionado por la tecnología de **Medellín, Colombia**, enfocado en construir soluciones web robustas y escalables. Me encanta transformar ideas en código y aprender algo nuevo cada día.
+## 🕹️ MENU PRINCIPAL
+
+<details open>
+<summary><b>[ ⏬ MISIÓNN ACTUAL ]</b></summary>
+<br />
+Comparto mi tiempo completando <i>quests</i> en el mundo del desarrollo web desde <b>Medellín, Colombia</b>. Mi objetivo es subir de nivel mis habilidades cada día y farmear experiencia en arquitecturas limpias.
+</details>
 
 ---
 
-### 🛠️ ¿En qué estoy trabajando?
-Actualmente divido mi tiempo impulsando estos proyectos:
-- 💻 **PCMATCH:** Desarrollando soluciones integrales con un stack moderno.
-- 🛒 **Karomi:** Construyendo una experiencia de usuario fluida y eficiente.
-- 🎓 Finalizando mi formación técnica en el **SENA**, especializándome en arquitectura de software.
+## 🛠️ INVENTARIO DE HABILIDADES (TECH STACK)
 
----
-
-### 🔧 Mi Stack Tecnológico
-
-#### **Frontend & Backend**
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### **Base de Datos & Cloud**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-#### **Diseño & Herramientas**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🎮 Más allá del código
-Cuando cierro el editor de texto:
-- Me gusta pasar tiempo con mis **amigos**.
-- Soy fanático de los **videojuegos** (especialmente los retos de *Elden Ring*).
-- Disfruto cuidar de mis mascotas y desconectarme del mundo digital un rato.
-
----
-
-### 📊 Mis Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=xGabinho&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Stats de Gabriel" />
-  <img src="https://streak-stats.demolab.com/?user=xGabinho&theme=dark&hide_border=false" alt="GitHub Streak" />
+### 🗡️ Armas Principales (Front & Back)
+<p align="left">
+  <img src="https://img.shields.io/badge/Next-black?style=press-start&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232a?style=press-start&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495e?style=press-start&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=press-start&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=press-start&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=press-start&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=xGabinho&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Lenguajes más usados" />
+### 🛡️ Equipo Secundario (DB & Cloud)
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=press-start&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=press-start&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=press-start&logo=render&logoColor=white" alt="Render" />
+</p>
+
+### 🔧 Herramientas de Crafteo (Design & Tools)
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=press-start&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/PS_Photoshop-31A8FF?style=press-start&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=press-start&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
+## 🏆 LOGROS & QUESTS LOG (PROYECTOS ACTUALES)
+
+| Quest | Descripción | Status |
+| :--- | :--- | :--- |
+| **⚔️ PCMATCH** | Codeando soluciones Full Stack modernas. | `[IN PROGRESS]` |
+| **🛒 Karomi** | Optimizando la experiencia de usuario (UX). | `[IN PROGRESS]` |
+| **🎓 SENA** | Completando el entrenamiento técnica en ADSO. | `[LEVELING UP]` |
+
+---
+
+## 🎮 MODO LIBRE (AFK)
+
+Cuando no estoy *codeando*:
+- 🧑‍🤝‍🧑 **Co-op Mode:** Pasando tiempo con mis amigos.
+- 🐉 **Boss Rushes:** Intentando no morir en *Elden Ring*.
+- 🐾 **Pet Care:** Atendiendo a mis mascotas.
+
+---
+
+## 📊 ESTADÍSTICAS DE JUGADOR (PLAYER STATS)
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
+  <img src="https://github-readme-stats.shion.dev/api?username=xGabinho&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Stats de Gabinho" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=xGabinho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌐 Hablemos
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielavfdesign@gmail.com)
+## 📞 CONTACTO (GUILD CHAT)
+
+<p align="center">
+  <a href="mailto:gabrielavfdesign@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar_un_Mismo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=xGabinho&icon=9&color=12" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=xGabinho&icon=9&color=00ffff&style=flat-square" alt="Visitas" />
 </div>
