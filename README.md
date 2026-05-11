@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 ¡Hola! Soy Gabriel Quevedo<br><br>### 🚀 Desarrollador Full Stack | Estudiante de ADSO en el SENA<br>Soy un apasionado por la tecnología de **Medellín, Colombia**, enfocado en construir soluciones web robustas y escalables. Me encanta transformar ideas en código y aprender algo nuevo cada día.<br><br>---<br><br>### 🛠️ ¿En qué estoy trabajando?<br>Actualmente divido mi tiempo impulsando estos proyectos:<br>- 💻 **PCMATCH:** Desarrollando soluciones integrales con un stack moderno.<br>- 🛒 **Karomi:** Construyendo una experiencia de usuario fluida y eficiente.<br>- 🎓 Finalizando mi formación técnica en el **SENA**, especializándome en arquitectura de software.<br><br>---<br><br>### 🔧 Mi Stack Tecnológico<br>Para mis proyectos suelo utilizar:<br>- **Lenguajes:** Java (Spring Boot), PHP (Laravel), JavaScript (Next.js, React) y Python.<br>- **Base de Datos:** Supabase, MySQL y PostgreSQL.<br>- **Herramientas:** Git, Docker y XAMPP.<br><br>---<br><br>### 🎮 Más allá del código<br>Cuando cierro el editor de texto y apago el servidor local:<br>- Me gusta pasar tiempo de calidad con mis **amigos**.<br>- Soy un gran fanático de los **videojuegos** (especialmente los retos de *Elden Ring*).<br>- Disfruto cuidar de mis mascotas y desconectarme del mundo digital un rato.<br><br>---
 
-<!--
-**xGabinho/xGabinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrielavfdesign@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=xGabinho&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=xGabinho&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=xGabinho&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+---
+[![](https://komarev.com/ghpvc/?username=xGabinho&icon=9&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
